@@ -1,6 +1,6 @@
 <p align="center">
   <h2 align="center">
-   <a href="https://tedtex-scraper.vercel.app/">
+   <a href="https://expense-management-app.vercel.app/"
     Expense Management
    </a>
  </h2>
